@@ -35,4 +35,5 @@ Real-time note-taking in classrooms or meetings
 Pair programming or code review sessions
 Online content editing platforms
 
-OUTPUT
+#OUTPUT
+<img width="1412" height="793" alt="Image" src="https://github.com/user-attachments/assets/6bf11054-d58b-407f-9f9c-f373ff050252" />
